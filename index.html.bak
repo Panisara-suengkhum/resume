@@ -23,7 +23,7 @@
               <li class="nav-item"> <a class="nav-link active" aria-current="page"
                   href="https://drive.google.com/file/d/1hT_AQlJf17ipsPu2CUXvv_KD7I8gXjOX/view?usp=sharing">Portfolio</a>
               </li>
-              <li class="nav-item"> <a class="nav-link" href="https://www.facebook.com/profile.php?id=100009250398996">
+              <li class="nav-item"> <a class="nav-link" href="images/facebook.jpg">
                   Contact </a> </li>
             </ul>
           </div>
@@ -41,7 +41,7 @@
           <div class="resume_item resume_info">
             <div class="row">
               <div class="title">
-                <h1 class="bold"> PANISARA SUENGKHUM&nbsp; </h1>
+                <h1 class="bold"> PANISARA SUENGKHUM </h1>
                 <p class="regular"> Student of Master Degree</p>
               </div>
               <ul>
@@ -252,8 +252,7 @@
               <div class="date">ACTIVITY AT UNIVERSITY</div>
               <div class="info">
                 <p class="semi-bold">February 2023</p>
-                <p><a href="images/IMG_5442.JPG" title="images">Volunteer Work
-                    Tour Project for environment development</a></p>
+                <p>Volunteer Work Tour Project for environment development</p>
               </div>
             </li>
             <li>
@@ -272,8 +271,8 @@
                 <p>At : Department Store &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <a href="images/IMG_4445.JPG"
-                    title="images">Position : Product Consultant</a></p>
+                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Position :
+                  Product Consultant</p>
               </div>
             </li>
           </ul>
@@ -335,6 +334,28 @@
               </svg><br>
             </li>
           </ul>
+        </div>
+        <div class="row">
+          <div class="title"><br>
+            <p class="bold">PICTURE</p>
+          </div>
+          <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="1" aria-label="Slide 2"></button> </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active"> <img src="images/Activities.png"
+                  class="d-block w-100" alt="..."> </div>
+              <div class="carousel-item"> <img src="images/Part-time.png" class="d-block w-100"
+                  alt="..."> </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+              data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span> </button> <button
+              class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+              data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span> </button> </div>
         </div>
       </div>
     </div>
